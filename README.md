@@ -1,7 +1,8 @@
 # Jun's Github repository link collection
-### 1. MiniProject : [MiniProject Github repository link](https://github.com/tjdtls690/miniProject.git)
+### 1. MiniProject : [MiniProject Github repository link](https://github.com/tjdtls690/miniProject.git) 
+### &nbsp;&nbsp;&nbsp;- 1인 개발, 기간 1주일
 ####  &nbsp;&nbsp;&nbsp;- 기술스택 : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/javafx-00599C?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-#### &nbsp;&nbsp;&nbsp;- 개발 분야에 입문한 지 1개월 되는 때 만든 미니 프로젝트 (NIO 넌블록킹 통신 기반 채팅프로그램 - 여러명이 각자 다른 채팅방에서 채팅)
+#### &nbsp;&nbsp;&nbsp;- 개발 분야에 입문한 지 1개월차에 만든 미니 프로젝트 (NIO 넌블록킹 통신 기반 채팅프로그램 - 여러명이 각자 다른 채팅방에서 채팅)
 #### &nbsp;&nbsp;&nbsp;- This is a mini project I made when I was one months into the development field. 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- (NIO non-blocking communication based chat program - multiple people can chat in different chat rooms)<br/><br/>
 https://user-images.githubusercontent.com/85877080/161683761-584e5950-2977-4b80-9f69-95fad786844d.mp4
