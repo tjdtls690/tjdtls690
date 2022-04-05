@@ -6,3 +6,11 @@
 ### 2. Algorithm study : [Algorithm study Github repository link](https://github.com/tjdtls690/algorithm_study.git)
 #### &nbsp;&nbsp;&nbsp;- 알고리즘 공부 자료
 #### &nbsp;&nbsp;&nbsp;- Algorithm study content
+
+<hr/>
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdtls690&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdtls690&layout=compact&theme=tokyonight)
+  
+</div>
+<hr/>
