@@ -3,7 +3,7 @@
 ### &nbsp;&nbsp;&nbsp;- 1인 개발, 기간 10일
 ####  &nbsp;&nbsp;&nbsp;- 기술스택 : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/javafx-00599C?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 #### &nbsp;&nbsp;&nbsp;- 개발 입문 1개월차에 만든 1인 미니 프로젝트 (NIO 넌블록킹 통신 기반 채팅프로그램 - 여러명이 각자 다른 채팅방에서 채팅)
-#### &nbsp;&nbsp;&nbsp;- This is a mini project I made when I was one months into the development field. 
+#### &nbsp;&nbsp;&nbsp;- One-person mini project created in the first month of introductory development. 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- (NIO non-blocking communication based chat program - multiple people can chat in different chat rooms)<br/><br/>
 ### &nbsp;&nbsp;== MiniProject 영상 자료 ==
 #### &nbsp;&nbsp;&nbsp;- 영상을 접고싶으면 영상 상단에 있는 파일 명 탭을 눌러주시기 바랍니다.
