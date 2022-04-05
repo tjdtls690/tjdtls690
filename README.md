@@ -10,6 +10,11 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) 서버 로그인 -> 유저 로그인 -> 서로 친구추가 -> 1:1 채팅 신청 -> 1:1 대화
 https://user-images.githubusercontent.com/85877080/161698170-67902bcd-b63d-4be0-a196-a4d0c480a8b3.mp4
 
+<br/>
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) -> 그룹 채팅 -> 그룹채팅 및 1:1 채팅 동시 진행 -> 방 나가기 -> 서버 로그 확인 -> 서버 셧다운.
+https://user-images.githubusercontent.com/85877080/161699273-4a8665ac-ba0e-4334-be20-8d66cf1e73e5.mp4
+
 <br/><br/><hr/>
 
 ### 2. Algorithm study : [Algorithm study Github repository link](https://github.com/tjdtls690/algorithm_study.git) (Java)
