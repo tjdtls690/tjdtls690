@@ -6,7 +6,7 @@
 #### &nbsp;&nbsp;&nbsp;- This is a mini project I made when I was one months into the development field. 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- (NIO non-blocking communication based chat program - multiple people can chat in different chat rooms)<br/><br/>
 ### &nbsp;&nbsp;== MiniProject 영상 자료 ==
-#### - 영상을 접고싶으면 영상 상단의 탭을 눌러주시기 바랍니다.
+#### - 영상을 접고싶으면 영상 상단에 있는 파일 명 탭을 눌러주시기 바랍니다.
 https://user-images.githubusercontent.com/85877080/161683761-584e5950-2977-4b80-9f69-95fad786844d.mp4
 
 <br/><br/><hr/>
