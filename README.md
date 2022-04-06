@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/85877080/161700823-3050b15d-754d-4370-
 
 <br/><br/><hr/><br/><br/>
 
-### 2. Algorithm study : [Algorithm study Github repository link](https://github.com/tjdtls690/algorithm_study.git) (Java)
+## 2. Algorithm study : [Algorithm study Github repository link](https://github.com/tjdtls690/algorithm_study.git) (Java)
 #### &nbsp;&nbsp;&nbsp;- 기술스택 : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 #### &nbsp;&nbsp;&nbsp;- 알고리즘 공부 자료
 #### &nbsp;&nbsp;&nbsp;- Algorithm study content
